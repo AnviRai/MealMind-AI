@@ -1,0 +1,72 @@
+name,category,price,calories,veg,rating,area,restaurant,cuisine
+Aloo Paratha,Breakfast,120,380,1,4.4,Kamla Nagar,Cafe Delhi,North Indian
+Masala Dosa,Breakfast,150,320,1,4.5,Kamla Nagar,Cafe Delhi,South Indian
+Poha,Breakfast,100,250,1,4.2,Kamla Nagar,Cafe Delhi,Indian
+Idli Sambar,Breakfast,120,280,1,4.3,Kamla Nagar,Cafe Delhi,South Indian
+Paneer Tikka,Lunch,250,400,1,4.5,Kamla Nagar,Cafe Delhi,Indian
+Rajma Rice,Lunch,170,450,1,4.3,Kamla Nagar,Cafe Delhi,North Indian
+Veg Hakka Noodles,Lunch,220,450,1,4.4,Kamla Nagar,Dragon Bowl,Chinese
+Chilli Paneer,Lunch,240,430,1,4.3,Kamla Nagar,Dragon Bowl,Chinese
+Margherita Pizza,Dinner,350,650,1,4.5,Kamla Nagar,Urban Cafe,Italian
+White Sauce Pasta,Dinner,320,580,1,4.4,Kamla Nagar,Urban Cafe,Italian
+Garlic Bread,Snacks,160,350,1,4.2,Kamla Nagar,Urban Cafe,Italian
+Veg Spring Rolls,Snacks,180,320,1,4.3,Kamla Nagar,Dragon Bowl,Chinese
+Chicken Biryani,Dinner,320,650,0,4.6,Kamla Nagar,Spice Hub,Indian
+Chicken Tikka,Snacks,280,450,0,4.5,Kamla Nagar,Spice Hub,Indian
+
+Chole Bhature,Breakfast,160,550,1,4.5,South Ex,Spice Route,North Indian
+Paneer Sandwich,Breakfast,180,400,1,4.3,South Ex,Spice Route,Indian
+Masala Dosa,Breakfast,180,320,1,4.4,South Ex,Spice Route,South Indian
+Paneer Tikka,Lunch,350,400,1,4.5,South Ex,Spice Route,Indian
+Dal Makhani,Lunch,300,450,1,4.4,South Ex,Spice Route,Indian
+Veg Fried Rice,Lunch,280,420,1,4.2,South Ex,China Town,Chinese
+Chilli Paneer,Lunch,320,430,1,4.4,South Ex,China Town,Chinese
+Margherita Pizza,Dinner,450,650,1,4.5,South Ex,Italiano House,Italian
+Alfredo Pasta,Dinner,420,600,1,4.4,South Ex,Italiano House,Italian
+Garlic Bread,Snacks,200,350,1,4.3,South Ex,Italiano House,Italian
+Spring Rolls,Snacks,220,380,1,4.2,South Ex,China Town,Chinese
+Chicken Biryani,Dinner,420,650,0,4.6,South Ex,Spice Route,Indian
+Chicken Tikka,Snacks,400,520,0,4.5,South Ex,Spice Route,Indian
+
+Aloo Paratha,Breakfast,140,380,1,4.4,Hauz Khaas,Green Leaf,North Indian
+Pancakes,Breakfast,220,450,1,4.3,Hauz Khaas,Green Leaf,Continental
+Veg Sandwich,Breakfast,180,350,1,4.2,Hauz Khaas,Green Leaf,Continental
+Paneer Tikka,Lunch,300,400,1,4.5,Hauz Khaas,Green Leaf,Indian
+Shahi Paneer,Lunch,320,480,1,4.4,Hauz Khaas,Green Leaf,Indian
+Hakka Noodles,Lunch,260,450,1,4.4,Hauz Khaas,Wok Express,Chinese
+Chilli Paneer,Lunch,280,430,1,4.3,Hauz Khaas,Wok Express,Chinese
+Margherita Pizza,Dinner,400,650,1,4.5,Hauz Khaas,Pasta Street,Italian
+Penne Alfredo,Dinner,380,580,1,4.4,Hauz Khaas,Pasta Street,Italian
+Garlic Bread,Snacks,180,350,1,4.3,Hauz Khaas,Pasta Street,Italian
+Spring Rolls,Snacks,220,380,1,4.2,Hauz Khaas,Wok Express,Chinese
+Chicken Tikka,Dinner,380,520,0,4.5,Hauz Khaas,Green Leaf,Indian
+Chicken Noodles,Dinner,350,550,0,4.4,Hauz Khaas,Wok Express,Chinese
+
+Chole Bhature,Breakfast,180,550,1,4.5,CP,Delhi Zaika,North Indian
+Idli Sambar,Breakfast,160,280,1,4.3,CP,Delhi Zaika,South Indian
+Veg Sandwich,Breakfast,200,350,1,4.2,CP,Delhi Zaika,Continental
+Paneer Tikka,Lunch,350,400,1,4.5,CP,Delhi Zaika,Indian
+Dal Makhani,Lunch,320,450,1,4.4,CP,Delhi Zaika,Indian
+Chilli Paneer,Lunch,350,430,1,4.3,CP,Chinese Wok,Chinese
+Hakka Noodles,Lunch,300,450,1,4.4,CP,Chinese Wok,Chinese
+Margherita Pizza,Dinner,500,650,1,4.5,CP,La Piazza,Italian
+White Sauce Pasta,Dinner,450,580,1,4.4,CP,La Piazza,Italian
+Garlic Bread,Snacks,220,350,1,4.3,CP,La Piazza,Italian
+Veg Spring Rolls,Snacks,250,320,1,4.2,CP,Chinese Wok,Chinese
+Chicken Biryani,Dinner,450,650,0,4.6,CP,Delhi Zaika,Indian
+Chicken Noodles,Dinner,400,550,0,4.4,CP,Chinese Wok,Chinese
+
+Aloo Paratha,Breakfast,100,380,1,4.4,Noida,Food Junction,North Indian
+Poha,Breakfast,80,250,1,4.2,Noida,Food Junction,Indian
+Masala Dosa,Breakfast,130,320,1,4.5,Noida,Food Junction,South Indian
+Paneer Sandwich,Breakfast,140,400,1,4.3,Noida,Food Junction,Continental
+Paneer Tikka,Lunch,250,400,1,4.5,Noida,Food Junction,Indian
+Dal Makhani,Lunch,240,450,1,4.4,Noida,Food Junction,Indian
+Chilli Paneer,Lunch,230,430,1,4.3,Noida,Wok House,Chinese
+Hakka Noodles,Lunch,210,450,1,4.4,Noida,Wok House,Chinese
+Margherita Pizza,Dinner,350,650,1,4.5,Noida,Italian Bistro,Italian
+Alfredo Pasta,Dinner,330,580,1,4.4,Noida,Italian Bistro,Italian
+Garlic Bread,Snacks,150,350,1,4.3,Noida,Italian Bistro,Italian
+Veg Manchurian,Snacks,180,400,1,4.3,Noida,Wok House,Chinese
+Chicken Biryani,Dinner,300,650,0,4.6,Noida,Food Junction,Indian
+Chicken Tikka,Snacks,280,520,0,4.5,Noida,Food Junction,Indian
